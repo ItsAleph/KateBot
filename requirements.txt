@@ -1,1 +1,13 @@
-python-3.8
+asyncio
+discord
+sqlite3
+random
+functools
+itertools
+math
+youtube_dl
+async_timeout
+Cybernator
+os
+sys
+datetime
